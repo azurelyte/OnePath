@@ -1,0 +1,36 @@
+Mono path[0] = 'A:/Some Path/TES_0.0.1_Data/Managed'
+Mono path[1] = 'A:/Some Path/TES_0.0.1_Data/Mono'
+Mono config path = 'A:/Some Path/TES_0.0.1_Data/Mono/etc'
+PlayerConnection initialized from A:/Some Path/TES_0.0.1_Data (debug = 0)
+PlayerConnection initialized network socket : 0.0.0.0 55326
+Multi-casting "[IP] 192.168.0.5 [Port] 55326 [Flags] 2 [Guid] 1569836054 [EditorId] 1600122309 [Version] 1048832 [Id] WindowsPlayer(Owner-PC) [Debug] 0" to [225.0.0.222:54997]...
+PlayerConnection already initialized - listening to [192.168.0.5:55326]
+Initialize engine version: 5.4.0b15 (f24f29c81497)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 770 (ID=0x1184)
+    Vendor:   NVIDIA
+    VRAM:     1989 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: A:\Some Path\TES_0.0.1_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading A:\Some Path\TES_0.0.1_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: A:\Some Path\TES_0.0.1_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading A:\Some Path\TES_0.0.1_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: A:\Some Path\TES_0.0.1_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading A:\Some Path\TES_0.0.1_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: A:\Some Path\TES_0.0.1_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading A:\Some Path\TES_0.0.1_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: A:\Some Path\TES_0.0.1_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading A:\Some Path\TES_0.0.1_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.037 seconds
+Platform assembly: A:\Some Path\TES_0.0.1_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: A:\Some Path\TES_0.0.1_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 3840x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.669315 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 563c -> priority: 1 
+  Thread -> id: 2374 -> priority: 1 
